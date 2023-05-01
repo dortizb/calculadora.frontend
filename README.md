@@ -25,13 +25,17 @@ $ calculadora.html
 
 ### Modo visual
 - Ingresar al link https://github.com/dortizb/calculadora.frontend
+
 - Donde están los documentos, presionar el botón verde que dice Code 
+
 ![image](https://user-images.githubusercontent.com/70610854/235493256-53da9328-0a5e-4fa1-938a-bc87f6f407d6.png)
 
 - Presionar donde dice **Download ZIP**
+
 ![image](https://user-images.githubusercontent.com/70610854/235493735-4897ce7d-9c29-494c-926b-a3510c1b2fdc.png)
 
 - Descomprimir el archivo descargado
+
 - Ejecutar calculadora.html
 
 
