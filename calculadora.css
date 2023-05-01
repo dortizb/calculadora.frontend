@@ -1,0 +1,40 @@
+body {
+    background-image: url("fondo.jpg");
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+}
+
+#containerPrincipal {
+    background-color: rgb(66, 66, 66);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    
+}
+
+#casio {
+    font-family: 'Orbitron', sans-serif;
+    color: aliceblue;
+}
+
+.botonesCal {
+    font-family: 'Orbitron', sans-serif;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+}
+
+#inputData{
+    font-family: 'Orbitron', sans-serif;
+    background-color: rgb(140, 172, 164);
+}
+
+#cssFooter {
+    font-family: 'Bebas Neue', cursive;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    margin: 0;
+    color:white;
+}
